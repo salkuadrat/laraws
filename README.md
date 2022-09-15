@@ -1,6 +1,6 @@
 # Laraws 
 
-Easy to use boilerplate for Laravel project utilizing laravel-websockets package.
+Easy to use boilerplate for [Laravel](https://laravel.com) project (9.x) utilizing [laravel-websockets](https://beyondco.de/docs/laravel-websockets) package.
 
 ## Installation 
 
