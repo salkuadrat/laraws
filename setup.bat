@@ -1,4 +1,4 @@
-php artisan key:generate
+php artisan key:generate --ansi
 
 php artisan session:table
 php artisan cache:table
